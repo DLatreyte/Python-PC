@@ -1,4 +1,3 @@
-TS Spé PC
-=========
+Activités en PC utilisant Python
+================================
 
-Cours de la spécialité PC au lycée Massignon à Abu Dhabi
