@@ -5,4 +5,4 @@ pandas
 autopep8
 ipywidgets
 jupyter_contrib_nbextensions
-jupyterlab-language-pack-fr-FR
+jupyterlab-solutions
