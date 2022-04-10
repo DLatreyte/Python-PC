@@ -2,7 +2,4 @@ numpy
 matplotlib
 seaborn
 pandas
-autopep8
-ipywidgets
-jupyter_contrib_nbextensions
-jupyterlab-solutions
+scipy
